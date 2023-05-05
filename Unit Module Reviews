@@ -1,0 +1,26 @@
+# CS1030-Final-Project
+
+Data Tools
+This section of the program reviewed the basics of SQL and database management. This allows for the sorting of information into rows and columns, such as in 
+Microsoft Excel. Furthermore, it covered the basics of storing data sets and commands to make quick calculations based on the data. It also highlighted some 
+terminology regarding data set patterns, such as positive/negative trends and the use of linear regression to make predictions on where aggregate data might go in the 
+future.
+
+Big Data
+	There is an incredible amount of data in existence. A wide variety of industries utilize vast amounts of data, such as in scientific research, digital libraries, 
+  medical records, user-facing applications, and many others. Storing enough data for everything can be challenging. Data is stored by having many hard drives connected 
+  into a disk array or disk enclosure. These enclosures can hold up to hundreds of discs at a time, and hundreds of these enclosures can be housed in a data center. Data 
+  ending up in company hands isn’t necessarily a good thing, though, since data is also collected on users without explicit consent.
+
+Bias in Machine Learning
+	Machine Learning is an algorithm which improves itself automatically based on experience. One form of implementing a machine learning algorithm is using a neural 
+  network. These networks can be trained to classify data based on weight it gives different characteristics. Because they’re designed to make these decisions based off 
+  data fed to them, machine learning has the potential for bias due to any biases in the data it receives. For example, risk assessment algorithms used in criminal 
+  justice sentencing will be utilizing data of past convictions and arrests, which has a significant racial disparity in the US. The same can be said for facial 
+  recognition, as software generally only works accurately consistently with white faces. Even in language translation, sexism exists in the system as gendered languages 
+  will often automatically associate given professions with a specific gender (i.e. men being engineers and women being cooks).
+
+Unit Test
+	I found the unit test to be relatively easy and simple, where I only got the final question incorrect. Past that, the test was a pretty good summary of the 
+  content in the unit. It brought the most important concepts back to me, namely the ability to read and analyze data while being aware of any biases. This unit was 
+  helpful, despite not being entirely new information, and summarized important points and concepts we’ve read about in further detail in Hello World.
